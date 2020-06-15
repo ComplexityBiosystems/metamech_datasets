@@ -7,7 +7,7 @@ preprint version arXiv:2002.03032
 journal version [ add link to journal  ]
 
 ## List of datasets
-So far, we provide loader functions for the following cases:
+We provide loader functions for the following cases:
 + standard crane
 + human plier
 + half-full lattice for machine-generated plier
